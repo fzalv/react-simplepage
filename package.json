@@ -1,6 +1,6 @@
 {
-  "homepage": "https://fzalv.github.io/react-simplepage/",
   "name": "react-simplepage",
+  "homepage": "https://fzalv.github.io/react-simplepage/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
